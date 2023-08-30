@@ -1,0 +1,38 @@
+.col-2 img {
+    height: 120px;
+}
+#details {
+    opacity: 0;
+}
+#loading {
+    display: none;
+}
+
+.card-title, .card-header{
+    text-align: center;
+}
+
+#country-details{
+    margin-bottom: 50px;
+}
+
+.item{
+    text-align: center;
+    justify-content: center;
+    list-style: none;
+    border-bottom: solid 0.1px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    
+}
+.item:hover{
+    background-color: cornsilk;
+}
+ul{
+   margin-top: revert;
+}
+
+body{
+    background-image: url(bg-body.jpg);
+    background-size: cover;
+}
